@@ -1,0 +1,4 @@
+
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(óËµ¤
+_php:S103"KSplit this 125 characters long line (which is greater than 120 authorized).(»·Ïµ
+V	php:S5842"<Rework this part of the regex to not match the empty string.(âþªúÿÿÿÿ

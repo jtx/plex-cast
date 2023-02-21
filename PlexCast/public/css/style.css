@@ -1,0 +1,82 @@
+body {
+    padding-top: 70px;
+    background-color: #2b2d42;
+    color: #fff;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+    background-color: #8d99ae;
+    color: #fff;
+}
+
+.nav-tabs .nav-item .nav-link {
+    color: #fff;
+}
+
+.form-control {
+    background-color: #444;
+    color: #fff;
+    border-color: #555;
+}
+
+label {
+    color: #fff;
+}
+
+dl {
+    color: #fff;
+}
+
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+* html .ui-autocomplete {
+    height: 100px;
+}
+
+.cast-crew-member-thumb {
+    border-radius: 50%;
+    height: 165px;
+    width: 165px;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+ .modal-content {
+     margin: auto;
+     width: 70%;
+     padding: 20px;
+     border-radius: 10px;
+     background-color: #f1f1f1;
+ }
+.ui-sortable {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+}
+.ui-sortable li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    height: 25px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.ui-sortable li:hover {
+    background-color: #f1f1f1;
+}
+.ui-state-highlight {
+    height: 1em;
+    line-height: 1em;
+    border: 2px dashed #ccc;
+    background-color: #f1f1f1;
+}

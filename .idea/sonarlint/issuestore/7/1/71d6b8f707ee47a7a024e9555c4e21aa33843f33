@@ -1,0 +1,9 @@
+
+_php:S103!"KSplit this 135 characters long line (which is greater than 120 authorized).(ïä†È
+x	php:S1808"dEither split this list into multiple lines, aligned at column "8" or put all arguments on line "26".(ŠŒë8
+H	php:S1808".Move the closing parenthesis on the next line.(‹Ý¼ïþÿÿÿÿ
+~	php:S1808'"dEither split this list into multiple lines, aligned at column "8" or put all arguments on line "39".(öƒá—ýÿÿÿÿ
+H	php:S1808(".Move the closing parenthesis on the next line.(¿ï…ìúÿÿÿÿ
+y	php:S1808)"dEither split this list into multiple lines, aligned at column "8" or put all arguments on line "41".(˜«ÿ…
+H	php:S1808*".Move the closing parenthesis on the next line.(ë©§ñþÿÿÿÿ
+a	php:S1192"GDefine a constant instead of duplicating this literal "[0-9]+" 5 times.(‰ˆ¢Žüÿÿÿÿ
